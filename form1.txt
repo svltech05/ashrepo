@@ -1,0 +1,3 @@
+form 1 : user name 
+form 1 : password
+form 1 : dob
